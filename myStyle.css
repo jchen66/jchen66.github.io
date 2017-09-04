@@ -511,3 +511,34 @@ img{
     font-weight: bold;
     font-size: 200%
 }
+
+
+
+.school-container {
+    margin: 100px 0px 100px 0px;  
+    padding-left:10%;
+    padding-right:10%;
+    border: 5px solid white;
+    overflow: auto;
+    font-size:13px;
+	font-family:'Geneva',sans-serif;
+	color:#353535;
+}
+.school-thumb {
+    float: left
+}
+.school-thumb img {
+    display: block;
+    max-height:220px;
+    max-width:220px;
+    padding:30px;
+    width: auto;
+    height:auto;
+}
+.school-content {
+    margin-left: 250px;
+}
+.school-title {
+    font-weight: bold;
+    font-size: 20px;
+}
